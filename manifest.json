@@ -4,7 +4,7 @@
       "slug": "sl-test-banner",
       "name": "SL Test Banner",
       "version": "1.0.0",
-      "zip_url": "https://github.com/tu-org/sl-test-banner/releases/download/1.0.0/sl-test-banner-1.0.0.zip",
+      "zip_url": "https://github.com/Rotivic/sl-test-banner/releases/download/1.0.0/sl-test-banner-1.0.0.zip",
       "requires_wp": "6.1",
       "tested": "6.6"
     }
