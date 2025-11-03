@@ -1,10 +1,10 @@
 {
   "plugins": [
-   {
+    {
       "slug": "sl-test-banner",
       "name": "SL Test Banner",
       "github_repo": "Rotivic/sl-test-banner",
       "asset_regex": "sl-test-banner-.*\\.zip$"
-    },
+    }
   ]
 }
