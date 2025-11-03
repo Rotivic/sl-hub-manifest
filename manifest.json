@@ -1,12 +1,10 @@
 {
   "plugins": [
-    {
+   {
       "slug": "sl-test-banner",
       "name": "SL Test Banner",
-      "version": "1.0.0",
-      "zip_url": "https://github.com/Rotivic/sl-test-banner/releases/download/1.0.0/sl-test-banner-1.0.0.zip",
-      "requires_wp": "6.1",
-      "tested": "6.6"
-    }
+      "github_repo": "Rotivic/sl-test-banner",
+      "asset_regex": "sl-test-banner-.*\\.zip$"
+    },
   ]
 }
